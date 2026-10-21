@@ -1,17 +1,17 @@
 <p>
 <br>
 
-<img src="https://media2.giphy.com/media/Nf0FkP3VokPcZCtOR4/giphy.gif" width="300" align="left">
+<img src="https://media1.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width="300" align="left">
 
 <pre>
                                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣾⣿⣿⣷⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
   Im interested in                        ⢀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀
 ┌──────────────────────────────┐    ⠀⠀⠀⠰⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⠆⠀⠀⠀
 │                              │    ⠀⠀⢸⣷⣦⣈⠙⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣁⣴⣾⡇⠀⠀
-│  > Classical ML              │    ⠀⠀⢸⣿⣿⣿⣿⣷⣦⣄⣉⠛⠻⢿⣿⣿⡿⠟⠛⣉⣠⣴⣾⣿⣿⣿⣿⡇⠀⠀
+│  > Classic ML                │    ⠀⠀⢸⣿⣿⣿⣿⣷⣦⣄⣉⠛⠻⢿⣿⣿⡿⠟⠛⣉⣠⣴⣾⣿⣿⣿⣿⡇⠀⠀
 │  > RecSys                    │    ⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡌⢡⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
 │  > Computer Vision           │    ⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
-│  > ML Ops                    │    ⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿  Aql  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+│  > ML Ops                    │    ⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿  d3v  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 │  > GPU Programming           │    ⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
 │                              │    ⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
 │ > █                          │    ⠀⠀⠘⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠃⠀⠀
